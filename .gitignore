@@ -1,4 +1,8 @@
 .git/
 .idea/
 JD/migrations/×
+<<<<<<< HEAD
+=======
+Tools/cookies/*
+>>>>>>> 初始化django
 *.pyc
